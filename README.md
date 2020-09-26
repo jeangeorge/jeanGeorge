@@ -9,7 +9,7 @@
 - See more below 😉⬇️
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanGeorge&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Jean George github stats](https://github-readme-stats.vercel.app/api?username=jeanGeorge&count_private=true&show_icons=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanGeorge&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Jean George github stats](https://github-readme-stats.vercel.app/api?username=jeanGeorge&count_private=true&show_icons=true&hide_title=false)
 
 ### Contact
 Sharing updates on <a href="https://www.linkedin.com/in/jean-george/">LinkedIn</a> 💼
