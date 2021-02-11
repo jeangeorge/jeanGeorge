@@ -1,6 +1,5 @@
 ## Hi there 👋😄
 
-- 🔭 I’m currently working on [Radix Engenharia e Software](http://www.radixeng.com.br/)
 - 💻 I’m currently working as a fullstack developer (AngularJS and .NET Core)
 
 ### Some projects 
