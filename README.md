@@ -1,6 +1,6 @@
 ## Hi there 👋😄
 
-- 💻 I’m currently working as a fullstack developer (AngularJS and .NET Core)
+- 💻 I’m currently working as a fullstack developer !
 
 ### Some projects 
 - [My Fanciful Website](http://jeangeorge.tk/), with Vanilla JavaScript, jQuery and PHP
