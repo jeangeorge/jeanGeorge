@@ -9,7 +9,7 @@
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanGeorge&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![Jean George's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanGeorge&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jean George's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanGeorge&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
