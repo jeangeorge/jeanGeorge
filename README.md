@@ -9,6 +9,9 @@
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanGeorge&layout=default&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![Jean George github stats](https://github-readme-stats.vercel.app/api?username=jeanGeorge&count_private=true&show_icons=true&hide_title=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanGeorge)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Contact
 Sharing updates on <a href="https://www.linkedin.com/in/jean-george/">LinkedIn</a> 💼
