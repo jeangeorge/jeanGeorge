@@ -7,7 +7,6 @@ Software Engineer from Belo Horizonte, Brazil. Former student CEFET-MG and UFMG 
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=jeangeorge&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeangeorge&theme=radical&hide_border=false)<br/>
 
 ## Stack
 I've worked with all these stuff, but my favorites programming languages currently are **Elixir** and **TypeScript**!
